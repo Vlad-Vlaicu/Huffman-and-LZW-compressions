@@ -1,4 +1,4 @@
-||||||||||||||||||          README           ||||||||||||||||||
+           README            
 
 Vlaicu Vlad - 322CD - 9) problema compresiei
 
@@ -132,6 +132,7 @@ o frecventa (Integer) care este suma frecventelor nodurilor copii.
 
   Codurile pentru algoritmii de compresie au fost luati de aici:
   https://www.youtube.com/watch?v=1KzUikIae6k&ab_channel=Geekific
+  
   https://www.youtube.com/watch?v=21_bJLB7gyU&ab_channel=Geekific
 
 
